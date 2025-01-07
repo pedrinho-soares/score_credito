@@ -1,0 +1,101 @@
+ID,Idade,Renda_Mensal,Estado_Civil,Score_Credito,Endividamento,Risco_Credito,Recomendacao_Produto
+70,25,2230,Casado,411,0.57,Alto,Educação Financeira
+30,38,19891,Solteiro,435,0.49,Alto,Educação Financeira
+173,27,19453,Casado,429,0.26,Alto,Educação Financeira
+29,44,4114,Solteiro,389,0.21,Alto,Educação Financeira
+190,61,16191,Divorciado,450,0.18,Alto,Educação Financeira
+53,27,16065,Casado,392,0.63,Alto,Educação Financeira
+169,46,5453,Divorciado,641,0.52,Médio,Empréstimo Pessoal
+68,20,18149,Divorciado,717,0.2,Baixo,Cartão de Crédito
+19,58,5311,Divorciado,596,0.53,Médio,Empréstimo Pessoal
+72,18,15679,Solteiro,645,0.73,Médio,Refinanciamento
+46,22,6634,Viúvo,677,0.01,Médio,Empréstimo Pessoal
+198,18,11188,Divorciado,818,0.75,Médio,Refinanciamento
+93,47,15772,Solteiro,356,0.87,Alto,Educação Financeira
+113,52,16661,Solteiro,375,0.71,Alto,Educação Financeira
+102,36,4259,Divorciado,341,0.12,Alto,Educação Financeira
+195,26,17688,Viúvo,788,0.03,Baixo,Cartão de Crédito
+18,59,13176,Divorciado,582,0.82,Médio,Refinanciamento
+91,56,19776,Divorciado,565,0.53,Médio,Empréstimo Pessoal
+49,62,7024,Viúvo,680,0.0,Médio,Refinanciamento
+189,55,4628,Solteiro,342,0.37,Alto,Educação Financeira
+75,36,17310,Solteiro,369,0.36,Alto,Educação Financeira
+61,41,14708,Solteiro,306,0.81,Alto,Educação Financeira
+89,40,13031,Solteiro,436,0.52,Alto,Educação Financeira
+136,67,7569,Casado,672,0.5,Médio,Empréstimo Pessoal
+174,33,15468,Divorciado,547,0.02,Médio,Refinanciamento
+89,47,1270,Viúvo,321,0.85,Alto,Educação Financeira
+152,43,15338,Casado,666,0.52,Médio,Refinanciamento
+4,36,6176,Viúvo,554,0.9,Médio,Empréstimo Pessoal
+130,52,2303,Solteiro,345,0.49,Alto,Educação Financeira
+121,44,19972,Divorciado,347,0.16,Alto,Educação Financeira
+75,41,5704,Divorciado,338,0.5,Alto,Educação Financeira
+44,44,2603,Solteiro,809,0.1,Baixo,Investimentos
+25,37,2729,Divorciado,779,0.21,Baixo,Cartão de Crédito
+79,36,12893,Casado,440,0.21,Alto,Educação Financeira
+128,23,5361,Casado,514,0.68,Médio,Empréstimo Pessoal
+19,22,13340,Divorciado,513,0.3,Médio,Empréstimo Pessoal
+188,70,2400,Solteiro,743,0.32,Médio,Refinanciamento
+166,53,8571,Solteiro,447,0.38,Alto,Educação Financeira
+53,19,5899,Solteiro,393,0.35,Alto,Educação Financeira
+41,56,6936,Solteiro,806,0.69,Médio,Empréstimo Pessoal
+187,40,7616,Casado,527,0.17,Médio,Refinanciamento
+132,29,19466,Solteiro,328,0.72,Alto,Educação Financeira
+124,30,4839,Solteiro,588,0.68,Médio,Empréstimo Pessoal
+18,30,17156,Casado,335,0.9,Alto,Educação Financeira
+19,21,8818,Casado,441,0.06,Alto,Educação Financeira
+140,59,19703,Casado,395,0.64,Alto,Educação Financeira
+17,69,8715,Divorciado,714,0.36,Médio,Empréstimo Pessoal
+55,57,12299,Viúvo,654,0.6,Médio,Empréstimo Pessoal
+38,59,6252,Viúvo,712,0.33,Médio,Empréstimo Pessoal
+6,61,3750,Divorciado,462,0.58,Alto,Educação Financeira
+123,57,8470,Viúvo,729,0.78,Médio,Empréstimo Pessoal
+172,29,11803,Viúvo,728,0.19,Baixo,Investimentos
+139,58,4152,Solteiro,597,0.32,Médio,Empréstimo Pessoal
+100,47,7785,Casado,755,0.9,Médio,Empréstimo Pessoal
+86,65,5245,Casado,309,0.12,Alto,Educação Financeira
+52,53,4445,Viúvo,445,0.79,Alto,Educação Financeira
+193,48,18893,Solteiro,657,0.61,Médio,Refinanciamento
+97,30,6632,Divorciado,722,0.64,Médio,Empréstimo Pessoal
+2,52,18015,Viúvo,756,0.25,Baixo,Investimentos
+200,66,14822,Casado,832,0.87,Médio,Empréstimo Pessoal
+117,24,5254,Solteiro,609,0.66,Médio,Empréstimo Pessoal
+122,58,15478,Divorciado,562,0.84,Médio,Empréstimo Pessoal
+198,32,19785,Viúvo,486,0.46,Alto,Educação Financeira
+36,49,3572,Divorciado,716,0.6,Médio,Empréstimo Pessoal
+87,43,1877,Casado,390,0.75,Alto,Educação Financeira
+185,60,8214,Casado,511,0.13,Médio,Refinanciamento
+102,22,13469,Casado,816,0.01,Baixo,Investimentos
+90,25,15388,Divorciado,695,0.2,Médio,Empréstimo Pessoal
+56,41,3261,Divorciado,698,0.92,Médio,Empréstimo Pessoal
+189,30,7297,Casado,629,0.09,Médio,Refinanciamento
+28,69,10206,Divorciado,578,0.99,Médio,Refinanciamento
+36,45,1302,Solteiro,720,0.39,Médio,Refinanciamento
+130,70,13715,Casado,798,0.98,Médio,Empréstimo Pessoal
+129,60,19699,Casado,321,0.2,Alto,Educação Financeira
+130,63,5151,Solteiro,420,0.85,Alto,Educação Financeira
+32,48,18872,Solteiro,650,0.3,Médio,Refinanciamento
+95,38,11210,Divorciado,394,0.22,Alto,Educação Financeira
+26,28,15460,Casado,454,0.47,Alto,Educação Financeira
+186,32,16571,Casado,832,0.37,Médio,Empréstimo Pessoal
+172,25,17155,Viúvo,357,0.87,Alto,Educação Financeira
+55,38,9871,Divorciado,779,0.37,Médio,Refinanciamento
+88,53,13375,Solteiro,788,0.09,Baixo,Investimentos
+84,44,12393,Casado,528,0.64,Médio,Refinanciamento
+2,64,11881,Divorciado,585,0.01,Médio,Empréstimo Pessoal
+32,66,1312,Viúvo,304,0.41,Alto,Educação Financeira
+124,27,1791,Casado,311,0.76,Alto,Educação Financeira
+104,31,19065,Solteiro,697,0.78,Médio,Empréstimo Pessoal
+83,32,9844,Viúvo,738,0.01,Baixo,Cartão de Crédito
+124,68,13976,Solteiro,763,0.72,Médio,Empréstimo Pessoal
+82,37,12473,Viúvo,729,1.0,Médio,Refinanciamento
+148,28,15424,Divorciado,469,0.2,Alto,Educação Financeira
+11,57,15490,Casado,738,0.93,Médio,Refinanciamento
+169,47,8307,Casado,377,0.51,Alto,Educação Financeira
+25,49,7508,Casado,351,0.91,Alto,Educação Financeira
+37,51,18093,Solteiro,309,0.43,Alto,Educação Financeira
+121,52,1853,Solteiro,694,0.2,Médio,Refinanciamento
+51,57,8504,Casado,773,0.38,Médio,Refinanciamento
+18,24,7939,Casado,772,0.79,Médio,Refinanciamento
+38,27,1240,Divorciado,487,0.25,Alto,Educação Financeira
+42,39,7982,Casado,403,0.59,Alto,Educação Financeira
